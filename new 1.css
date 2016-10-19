@@ -1,0 +1,75 @@
+.haut {
+	Text-align : right;
+	Color : green;
+	
+}
+#menu
+{
+		background-color : silver ;
+		width : 100px ;
+		float: left ;
+}
+
+#contenu
+{
+	Margin-left: 220px ;
+}
+.section {
+	background : black ;
+	width: 500px
+	
+}
+body {
+	background-image: url(http://i.giphy.com/Nhz1hUtcTnukU.gif) ;
+	background-size: 700px;
+	
+	
+}
+p {
+	color: white;
+	font-family: verdana ;
+	font-size: 10px;
+}
+li {
+	color: white;
+	font-family: verdana ;
+	font-size: 10px;
+}
+h1 {
+	color: black;
+	font-family: Paskowy ;
+	font-size: 50px;
+	background-color : white ;
+	width : 300px
+	
+}
+h2 {
+	color: white;
+	font-family: courier new ;
+	 
+}
+h3 {
+	color: white;
+	font-family: verdana ;
+	font-size: 12px;
+}
+.bit {
+	Text-align: right;
+	color: white;
+	font-size:30px;
+	font-family: Paskowy ;
+	
+}
+.wfont {
+	color:white;
+}
+
+div.chat {
+    position: fixed;
+	right: 50px;
+    bottom: 5px;
+    width: 200px;
+    height: 300px;
+    border: 3px dotted #8AC007;
+	
+
